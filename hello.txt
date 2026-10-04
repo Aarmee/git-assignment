@@ -1,2 +1,3 @@
 "Hello DevOps" 
 "This is a feature branch change" 
+"This is a new change in feature branch" 
